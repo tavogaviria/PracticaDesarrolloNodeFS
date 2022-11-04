@@ -1,0 +1,90 @@
+[
+    {
+        "pedido_nro": "12434",
+        "cliente": "ferreteria juanito",
+        "departamento": "Caldas",
+        "ciudad": "Manizales",
+        "direccion": "Cra 1 # 34 - 23",
+        "representante_legal": "juanito gaviria",
+        "items": [
+            {
+                "codigo_barras": "7701234578",
+                "descripcion": "machete muy filoso"
+            },
+            {
+                "codigo_barras": "77056892",
+                "descripcion": "lima amellada"
+            }
+        ]
+    },
+    {
+        "pedido_nro": "457489",
+        "cliente": "ferreteria la enea",
+        "departamento": "Caldas",
+        "ciudad": "Manizales",
+        "direccion": "Cra 100 # 344 - 23",
+        "representante_legal": "joe doe",
+        "items": [
+            {
+                "codigo_barras": "77070701",
+                "descripcion": "oz par frutas"
+            },
+            {
+                "codigo_barras": "77070704578",
+                "descripcion": "serrucho con dientes cuadrados"
+            },
+            {
+                "codigo_barras": "7709999",
+                "descripcion": "botas pantaneras pecuequeras"
+            }
+        ]
+    },
+    {
+        "pedido_nro": "12434",
+        "cliente": "ferreteria el trigal",
+        "departamento": "Caldas",
+        "ciudad": "Manizales",
+        "direccion": "Cra 1 # 14 - 14",
+        "representante_legal": "alejandro heano",
+        "items": [
+            {
+                "codigo_barras": "77045124",
+                "descripcion": "pala para concreto"
+            },
+            {
+                "codigo_barras": "770457896",
+                "descripcion": "pica para picar"
+            },
+            {
+                "codigo_barras": "770639852",
+                "descripcion": "tijeras para cortar orejas"
+            },
+            {
+                "codigo_barras": "770457899",
+                "descripcion": "tijeras para podar"
+            }
+        ]
+    },
+    {
+        "pedido_nro": "12434",
+        "cliente": "ferreteria donde joni es mas barato",
+        "departamento": "Caldas",
+        "ciudad": "Manizales",
+        "direccion": "Calle 12 - 23",
+        "representante_legal": "joni grisal",
+        "items": [
+            {
+                "codigo_barras": "770568936",
+                "descripcion": "machete 3 canales"
+            },
+            {
+                "codigo_barras": "77074152",
+                "descripcion": "machete 4 canales"
+            },
+            {
+                "codigo_barras": "77089562",
+                "descripcion": "machete 7 canales"
+            }
+        ]
+    }
+]
